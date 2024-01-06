@@ -1,14 +1,14 @@
 # GettingAndCleaningDataCourseProject
 Peer review project 
 
-# Details of the data**
+# Details of the data
 
 Source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 Official Description of the data: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 # Process to get and clean the data
 
-**A. Steps to be executed before running the script run_analysis.R**
+## A. Steps to be executed before running the script run_analysis.R**
 1. Download the data from the source into a folder on the laptop/machine
 2. Unzip the data into the data folder.
 
